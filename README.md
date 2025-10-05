@@ -1,5 +1,3 @@
-# expense_tracker
-Personal Expense Tracker (Intern Assignment)
 # 🧾 Personal Expense Tracker (Intern Assignment)
 
 A simple Python app to record and analyze personal expenses.
@@ -10,7 +8,6 @@ A simple Python app to record and analyze personal expenses.
 - Smart "AI-style" spending tips
 
 ## 🛠️ How to Run
-1. Clone the repo
-2. Run in Google Colab or your terminal:
-   ```bash
-   python expense_tracker.py
+1. Open "expense_tracker.ipynb" file on google colab.
+2. Run in Google Colab.
+3. Enter your expense inputs and you will get your output with weekly/monthly summaries and AI-style spending tips.
